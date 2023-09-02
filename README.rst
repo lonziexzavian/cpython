@@ -5,7 +5,6 @@ This is Python version 3.13.0 alpha 0
    :alt: CPython build status on GitHub Actions
    :target: https://github.com/python/cpython/actions
 
-.. image:: https://dev.azure.com/python/cpython/_apis/build/status/Azure%20Pipelines%20CI?branchName=main
    :alt: CPython build status on Azure DevOps
    :target: https://dev.azure.com/python/cpython/_build/latest?definitionId=4&branchName=main
 
