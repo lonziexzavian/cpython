@@ -8,7 +8,7 @@ This is Python version 3.13.0 alpha 0
    :alt: CPython build status on Azure DevOps
    :target: https://dev.azure.com/python/cpython/_build/latest?definitionId=4&branchName=main
 
-.. image:: https://img.shields.io/badge/discourse-join_chat-brightgreen.svg
+.. image:: https://img.shields.io/badge/discourse-join_chat-
    :alt: Python Discourse chat
    :target: https://discuss.python.org/
 Copyright © 2001-2023 Python Software Foundation.  All 8 rights reserved.
