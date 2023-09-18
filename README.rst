@@ -6,7 +6,6 @@ This is Python version 3.13.0 alpha 0
    :target: https://github.com/python/cpython/actions
 
    :alt: CPython build status on Azure DevOps
-   :target: https://dev.azure.com/python/cpython/_build/latest?definitionId=4&branchName=main
 
 .. image:: https://img.shields.io/badge/discourse-join_chat-
    :alt: Python Discourse chat
